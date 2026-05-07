@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building strong foundations in Data Structures, Python, and Web Development while exploring AI & Machine Learning projects.<br>👯 I’m looking to collaborate on<br>Open-source projects related to AI/ML, web apps, and beginner-friendly software development projects.<br>🤝 I’m looking for help with<br>Improving problem-solving skills, system design basics, and contributing to real-world open-source projects.<br>🌱 I’m currently learning<br>Python, Data Structures & Algorithms, Git & GitHub, and basics of Artificial Intelligence.<br>💬 Ask me about<br>Python, C programming, beginner AI concepts, and how to start in tech as a student.<br>⚡ Fun fact<br>I believe consistent small improvements every day beat talent without discipline.
+🔭 ## 👋 About Me
+
+Hi, I'm Siddharth — a student passionate about coding, web development, and AI/ML.  
+Currently learning Python, Data Structures & Algorithms, Git/GitHub, and modern web technologies.  
+
+I enjoy building projects, exploring new technologies, and improving my problem-solving skills every day.
+
+🚀 Interested in:
+- Web Development
+- Open Source
+- Artificial Intelligence & Machine Learning
+- Beginner-friendly projects
+
+💡 Belief:
+> Consistent small improvements every day create big results.
 
 
 ## 🌐 Socials:
