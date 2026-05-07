@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 ## 👋 About Me
 
 Hi, I'm Siddharth — a student passionate about coding, web development, and AI/ML.  
 Currently learning Python, Data Structures & Algorithms, Git/GitHub, and modern web technologies.  
